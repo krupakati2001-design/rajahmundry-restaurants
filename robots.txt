@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Allow: /sitemap.xml
 
 Sitemap: https://krupakati2001-design.github.io/rajahmundry-restaurants/sitemap.xml
